@@ -1,0 +1,75 @@
+MATRIXBENCHMARK DE C
+
+--- Iteración 1 ---
+Tiempo Wall: 6.203049 s
+Tiempo CPU: 6.199245 s
+Memoria inicial: 27264 KB
+Memoria final:   27264 KB
+Diferencia:      0 KB
+
+--- Iteración 2 ---
+Tiempo Wall: 6.391645 s
+Tiempo CPU: 6.384566 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 3 ---
+Tiempo Wall: 6.436357 s
+Tiempo CPU: 6.430251 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 4 ---
+Tiempo Wall: 6.378330 s
+Tiempo CPU: 6.372708 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 5 ---
+Tiempo Wall: 6.404755 s
+Tiempo CPU: 6.402076 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 6 ---
+Tiempo Wall: 6.615942 s
+Tiempo CPU: 6.606814 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 7 ---
+Tiempo Wall: 6.418037 s
+Tiempo CPU: 6.410204 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 8 ---
+Tiempo Wall: 6.317813 s
+Tiempo CPU: 6.315313 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 9 ---
+Tiempo Wall: 6.403440 s
+Tiempo CPU: 6.403114 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+--- Iteración 10 ---
+Tiempo Wall: 20.288509 s
+Tiempo CPU: 6.774736 s
+Memoria inicial: 27520 KB
+Memoria final:   27520 KB
+Diferencia:      0 KB
+
+=== RESULTADOS PROMEDIO (10 iteraciones) ===
+Tiempo Wall Promedio: 7.785788 s
+Tiempo CPU Promedio:  6.429903 s
